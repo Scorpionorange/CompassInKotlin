@@ -1,0 +1,2 @@
+rootProject.name='CompassInKotlin'
+include ':app'
